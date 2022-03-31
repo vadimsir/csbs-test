@@ -1,0 +1,17 @@
+{
+  "projects": {
+    "default": "csbs-test"
+  },
+  "targets": {
+    "csbs-test": {
+      "hosting": {
+        "development": [
+          "csbs-test"
+        ],
+        "stage": [
+          "csbs-test-stage"
+        ]
+      }
+    }
+  }
+}
